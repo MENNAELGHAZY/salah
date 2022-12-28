@@ -1,0 +1,2 @@
+# salah
+prime , perfect num
